@@ -42,4 +42,4 @@ android/keystores/debug.keystore
 
 # API Keys
 
-./src/FirebaseApi.json
+./auth2/src/FirebaseApi.json
