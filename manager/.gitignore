@@ -43,4 +43,4 @@ android/app/libs
 
 # API Keys
 
-./src/FirebaseApi.json
+FirebaseApi.json
