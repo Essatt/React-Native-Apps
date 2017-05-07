@@ -10,13 +10,8 @@ This **cross-platform** mobile application is written completely in [React-Nativ
 To run the app make sure you:
 
 1. Clone the project it in a local repository.
-1. If you never ran a React-Native project you need to do some [setup](https://facebook.github.io/react-native/docs/getting-started.html) on your device.
 1. [Install Expo](https://docs.expo.io/versions/v16.0.0/introduction/installation.html) on your computer 
-1. Run the project by  either
-   * Navigating to the project directory from the command line and typing:
-      * `react-native run-ios` for IOS
-      * `react-native run-android` for Android
-   * Use Expo client to run the application on your phone
+1. Run the project by running Expo client to run the application on your phone
       1. Dowload the expo app on your mobile device
       1. Send link to your device
       1. Run the project from Expo desktop
