@@ -1,4 +1,4 @@
-
+# Weather Map
 
 This app shows simple weather reports based on the user's location on the map (the location is determined by the center of the screen). A [weather api](https://openweathermap.org/current) is used to retrieve the weather data.
 
@@ -13,5 +13,5 @@ To run the app make sure you:
 1. If you never ran a React-Native project you need to do some [setup](https://facebook.github.io/react-native/docs/getting-started.html) on your device.
 1. Signup for the free [weather map api](https://openweathermap.org/current) and save it in `./src/ApiKey.json`
 1. Run the project by navigating to the project directory from the command line and typing:
-    * `react-native run-ios` for IOS
-    * `react-native run-android` for Android
+   1. `npm start` (this step is necessary as this application was written with an old version of React-Native)
+   1. `react-native run-ios` for IOS or `react-native run-android` for Android
