@@ -13,7 +13,7 @@ To run the app make sure you:
 1. If you never ran a React-Native project you need to do some [setup](https://facebook.github.io/react-native/docs/getting-started.html) on your device.
 1. [Install Expo](https://docs.expo.io/versions/v16.0.0/introduction/installation.html) on your computer 
 1. Run the project by  either
-   * navigating to the project directory from the command line and typing:
+   * Navigating to the project directory from the command line and typing:
       * `react-native run-ios` for IOS
       * `react-native run-android` for Android
    * Use Expo client to run the application on your phone
